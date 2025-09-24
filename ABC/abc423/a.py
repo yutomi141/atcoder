@@ -7,4 +7,3 @@ for i in range(0, round(X/1000)):
     money = i * 1000
     
 print(money)
-
